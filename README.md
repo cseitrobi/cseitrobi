@@ -2,9 +2,7 @@
 
 ### Software QA Engineer | Test Automation | API & Performance Testing
 
-I'm a Software QA Engineer focused on building reliable and scalable
-software through automation, API testing, performance engineering,
-and modern QA practices.
+Software Quality Engineer specializing in test automation and performance engineering. I build maintainable Web, Mobile and API automation frameworks and integrate testing into CI/CD and containerized environments.
 
 ## 🧪 What I Do
 
