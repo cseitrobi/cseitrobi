@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rabiul Sarker
 
-### Software QA Engineer | SQA II | Test Automation | API & Performance Testing
+### Software QA Engineer | Test Automation | API & Performance Testing
 
 I'm a Software QA Engineer focused on building reliable and scalable
 software through automation, API testing, performance engineering,
@@ -40,7 +40,7 @@ MySQL • SQL
 ### Universal Media Downloader
 Cross-platform media downloading project.
 
-### CANBI UI Automation
+### CANB UI Automation
 Automated UI testing framework.
 
 ## 📫 Connect With Me
